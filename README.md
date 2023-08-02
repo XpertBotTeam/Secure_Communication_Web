@@ -1,7 +1,7 @@
 <h1 align="center">
  Secure Communication and Messaging Platform
 </h1>
-<div align="left"height="48" width="48" >
+<div align="left", height="48" , width="48" >
  
 </div>
 
