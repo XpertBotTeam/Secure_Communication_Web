@@ -51,12 +51,17 @@ This project was built using these technologies.
 - Flutter
 - Dart
 <div align="center">
- </div>
-<br/>
-<center>
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)&nbsp;
-</center>
+ 
+</div>
 
+<br/>
+
+<center>
+
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)&nbsp;
+
+</center>
 
 
 
