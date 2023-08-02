@@ -24,8 +24,8 @@ This project was built using these technologies.
 - Css3
 - laravel
 - Php
--flutter
-  Dart
+- Flutter
+- Dart
 
 
 
