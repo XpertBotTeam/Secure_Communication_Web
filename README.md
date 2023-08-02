@@ -1,6 +1,19 @@
 <h1 align="center">
  Secure Communication and Messaging Platform
 </h1>
+<div align="top left">
+ 
+</div>
+
+<br/>
+
+<center>
+
+
+![TWBShbfL2QnD0Jj1juGgn6dav5FkGoxmmgZ2efND](https://github.com/hcarbelnainanis/scmp_app/assets/71183864/811fa2c5-eeed-40e7-8412-de0a248851e0)
+
+</center>
+
 <div align="center">
  
 </div>
