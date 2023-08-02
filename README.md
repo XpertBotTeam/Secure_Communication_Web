@@ -9,8 +9,8 @@
 
 <center>
 
-[![forthebadge](https://forthebadge.com/images/badges/secure communication.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/and messaging.svg)](https://forthebadge.com) &nbsp;
+(https://forthebadge.com/images/badges/0-percent-optimized.svg) &nbsp;
+https://forthebadge.com/images/badges/built-by-developers.svg&nbsp;
 </center>
 ## Learning Laravel
 
