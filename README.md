@@ -50,7 +50,7 @@ This project was built using these technologies.
 - Php
 - Flutter
 - Dart
-- 
+<div align="center">
  </div>
 <br/>
 <center>
