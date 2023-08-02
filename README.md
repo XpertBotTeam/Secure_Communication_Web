@@ -16,16 +16,6 @@
 Project Name: Secure Communication & Messaging Platform
 
 Description: The Secure Communication & Messaging Platform is a comprehensive solution that aims to provide users with a highly secure and private means of communication through both a mobile application and a website. This project utilizes the powerful image recognition capabilities of Google Cloud Vision to ensure end-to-end encryption and authentication, offering a safe environment for all users.
-## Learning Laravel
-
-This project was built using these technologies.
-
-- Html5
-- Css3
-- laravel
-- Php
-- Flutter
-- Dart
 
 Key features:
 
@@ -50,8 +40,17 @@ Messages, calls, and file transfers occur in real-time, providing a seamless and
 10-Multi-Layered Security:<br>
 The system employs multiple layers of security measures, including secure socket layer (SSL) protocols, to protect data during transmission and storage<br>
 
+## Learning Laravel
 
+This project was built using these technologies.
 
+- Html5
+- Css3
+- laravel
+- Php
+- Flutter
+- Dart
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)&nbsp;
 
 
 
