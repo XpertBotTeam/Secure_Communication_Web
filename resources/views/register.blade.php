@@ -1,19 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="{{url('css/style.css')}}" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
-    <title>Register</title>
-</head>
-<body>
-    <div class="container">
-        <div class="box form-box">
-            <header>Sign Up</header>
-            <form action="" method="post">
+@extend('layout.layout')
+    @content('registerpage')
+        
+            <div class="container">
+                 <div class="box form-box">
+                  <header>Sign Up</header>
+                  <div class="form-group{{ $errors->has('username') ? ' has-error' : '' }}">
+                    <label for="username" class="col-md-4 control-label">Username</label>
+                    <div class="col-md-6">
+                      <input id="username" type="text" class="form-control" name="username" value="{{ old('username') }}" required>
+                     @if ($errors->has('username'))
+                    <span class="help-block">
+                    <strong>{{ $errors->first('username') }}</strong>
+                     </span>
+                     @endif
+                    </div>
+                    </div>
+            
                 <div class="field input">
                     <label for="username">Username</label>
                     <input type="text" name="username" id="username" autocomplete="off" required />
@@ -44,8 +46,4 @@
         </div>
       
     </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js"></script>
-    <script src="{{url('js/index.js')}}"></script>
-</body>
-
-</html>
+    @endsection
